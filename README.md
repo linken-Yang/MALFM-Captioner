@@ -24,7 +24,9 @@ pip install -r requirements.txt
 ## COCO training
 
 Download [train_captions](https://drive.google.com/file/d/1D3EzUK1d1lNhD2hAvRiKPThidiVbP2K_/view?usp=sharing).
+
 Download the COCO features from [hdf5](https://pan.baidu.com/s/1Au97sw12o7UdrEZN_QRzBg). Acess code: labl.
+
 Download [training images](http://images.cocodataset.org/zips/train2014.zip) and [validation images](http://images.cocodataset.org/zips/val2014.zip) and unzip (We use Karpathy et el. split).
 
 Download [oscar_split_ViT-B_32_train_512.pkl](https://drive.google.com/file/d/1CVsEQ5YRH3b6ZVRr7gY7ni7Ge1TgHvuM/view?usp=share_link)  in ./data/coco/
